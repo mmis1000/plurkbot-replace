@@ -1,0 +1,27 @@
+{
+  "name": "plurkbot-replace",
+  "version": "0.0.0",
+  "description": "plurk bot to replace text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmis1000/plurkbot-replace.git"
+  },
+  "keywords": [
+    "replace"
+  ],
+  "author": "mmis1000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmis1000/plurkbot-replace/issues"
+  },
+  "homepage": "https://github.com/mmis1000/plurkbot-replace",
+  "dependencies": {
+    "oauth": "^0.9.12",
+    "coffee-script": "^1.8.0",
+    "request": "^2.51.0"
+  }
+}
